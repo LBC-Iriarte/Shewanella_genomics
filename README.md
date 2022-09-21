@@ -16,9 +16,9 @@ Download genomes —> EggNOG mapper —> run_func.sh —-> fisher3.R —> filter
 Conservation:   <——————— extract_seq.sh (KatG,hemB, etc)  <— GOATOOLS
    blastp: all-to all of each 
         amino acid protein
-| 
+        | 
 	|
-PROSITE & Pfam
+  PROSITE & Pfam
 
 – Code list:
 
