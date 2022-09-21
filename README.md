@@ -1,7 +1,7 @@
 # Shewanella_genomics
 Comparative genome analysis of the genus Shewanella unravels the association of key genetic traits with known and potential pathogenic lineages 
 
-Gabriela N. Cerbinoa, German M. Tragliab, Teolincacihuatl Ayala Nuñeza, Gisela Parmeciano Di Notoa, María Soledad Ramírezc, Daniela Centróna, Andrés Iriarteb*, Cecilia Quirogaa*.
+Gabriela N. Cerbino, German M. Traglia, Teolincacihuatl Ayala Nuñez, Gisela Parmeciano Di Noto, María Soledad Ramírez, Daniela Centrón, Andrés Iriarte*, Cecilia Quiroga*.
 
 
 ## Methods
@@ -11,8 +11,8 @@ Gabriela N. Cerbinoa, German M. Tragliab, Teolincacihuatl Ayala Nuñeza, Gisela 
 ## Workflow:
 
 Download genomes —> EggNOG mapper —> run_func.sh —-> fisher3.R —> filter_signi.sh
-										          |
-										          |
+								 |
+							      	 |
 Conservation:   <——————— extract_seq.sh (KatG,hemB, etc)  <— GOATOOLS
    blastp: all-to all of each 
         amino acid protein
