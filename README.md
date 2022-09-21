@@ -70,8 +70,7 @@ IQ-Tree v1.6.12 <— concatenador.sh
 
 ## Code list:
 
- -- Concatenation of alignemnt of orthologous genes.
-concatenador.sh takes all the alignments of orthologs made by clustalo software, which were firstly identified by get_homologues.pl. Then the “super” protein was used for phylogenetic analysis, including model prediction and bootstrap analysis, in IQ-tree. concatenador.sh run within the same folder where all alignments (.aln) files are located. Note that the default output of clustalo is an alignment in fasta format with an “.aln” extention.  
+ -- Concatenation of alignment of orthologous genes. concatenador.sh takes all the alignments of orthologs made by clustalo software, which were first identified by get_homologues.pl. Then the “super” protein was used in IQ-tree for phylogenetic analysis, including model prediction and bootstrap analysis. concatenador.sh run within the same folder where all alignments (.aln) files are located. Note that the default output of clustalo is an alignment in fasta format with a “.aln” extension..  
 
 $ ./concatenador.sh
 
