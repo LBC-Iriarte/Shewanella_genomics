@@ -14,21 +14,21 @@ Gabriela N. Cerbino, German M. Traglia, Teolincacihuatl Ayala Nuñez, Gisela Par
 
 2.EggNOG mapper
 
-3.run_func.sh
+3.run_func.sh (input= faa file (proteome from each genome)- FASTA file with Amino acid sequence, output= Eggnog output files from each faa file)
 
-4.fisher3.R
+4.fisher3.R (input=matrix file (examples in folder: clin1_v_env, clin2_v_env, etc) - output =)
 
 5.filter_signi.sh
 
-6. Conservation:
+Conservation:
 
-6.1 extract_seq.sh (KatG,hemB, etc)
+1 extract_seq.sh (KatG,hemB, etc)
 
-6.2 GOATOOLS
+2 GOATOOLS
 
-6.3 blastp: all-to all of each amino acid protein
+3 blastp: all-to all of each amino acid protein
 
-6.4 PROSITE & Pfam
+4 PROSITE & Pfam (ONLINE webserver)
 
 – Code list:
 
