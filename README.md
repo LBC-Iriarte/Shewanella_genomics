@@ -10,15 +10,16 @@ Gabriela N. Cerbino, German M. Traglia, Teolincacihuatl Ayala Nuñez, Gisela Par
 
 ## Workflow:
 
-Download genomes —> EggNOG mapper —> run_func.sh —-> fisher3.R —> filter_signi.sh
-								 |
-							      	 |
-Conservation:   <——————— extract_seq.sh (KatG,hemB, etc)  <— GOATOOLS
-   blastp: all-to all of each 
-        amino acid protein
-        | 
-	|
-  PROSITE & Pfam
+1. Download genomes 
+2.EggNOG mapper
+3.run_func.sh
+4.fisher3.R
+5.filter_signi.sh
+6. Conservation:
+6.1 extract_seq.sh (KatG,hemB, etc)
+6.2 GOATOOLS
+6.3 blastp: all-to all of each amino acid protein
+6.4 PROSITE & Pfam
 
 – Code list:
 
