@@ -1,0 +1,251 @@
+id: GO:0000726	name: non-recombinational repair
+id: GO:0001514	name: selenocysteine incorporation
+id: GO:0002938	name: tRNA guanine ribose methylation
+id: GO:0003941	name: L-serine ammonia-lyase activity
+id: GO:0003952	name: NAD+ synthase (glutamine-hydrolyzing) activity
+id: GO:0003963	name: RNA-3'-phosphate cyclase activity
+id: GO:0004029	name: aldehyde dehydrogenase (NAD+) activity
+id: GO:0004125	name: L-seryl-tRNASec selenium transferase activity
+id: GO:0004145	name: diamine N-acetyltransferase activity
+id: GO:0004151	name: dihydroorotase activity
+id: GO:0004342	name: glucosamine-6-phosphate deaminase activity
+id: GO:0004427	name: inorganic diphosphatase activity
+id: GO:0004568	name: chitinase activity
+id: GO:0004730	name: pseudouridylate synthase activity
+id: GO:0004766	name: spermidine synthase activity
+id: GO:0004802	name: transketolase activity
+id: GO:0004833	"name: tryptophan 2,3-dioxygenase activity"
+id: GO:0005262	name: calcium channel activity
+id: GO:0005372	name: water transmembrane transporter activity
+id: GO:0005469	name: succinate:fumarate antiporter activity
+id: GO:0005534	name: galactose binding
+id: GO:0005615	name: extracellular space
+id: GO:0006030	name: chitin metabolic process
+id: GO:0006032	name: chitin catabolic process
+id: GO:0006451	name: translational readthrough
+id: GO:0006482	name: protein demethylation
+id: GO:0006569	name: tryptophan catabolic process
+id: GO:0006577	name: amino-acid betaine metabolic process
+id: GO:0006578	name: amino-acid betaine biosynthetic process
+id: GO:0006579	name: amino-acid betaine catabolic process
+id: GO:0006598	name: polyamine catabolic process
+id: GO:0006805	name: xenobiotic metabolic process
+id: GO:0006816	name: calcium ion transport
+id: GO:0006833	name: water transport
+id: GO:0006846	name: acetate transport
+id: GO:0006874	name: cellular calcium ion homeostasis
+id: GO:0007010	name: cytoskeleton organization
+id: GO:0007015	name: actin filament organization
+id: GO:0008022	name: protein C-terminus binding
+id: GO:0008061	name: chitin binding
+id: GO:0008154	name: actin polymerization or depolymerization
+id: GO:0008214	name: protein dealkylation
+id: GO:0008273	"name: calcium, potassium:sodium antiporter activity"
+id: GO:0008446	"name: GDP-mannose 4,6-dehydratase activity"
+id: GO:0008452	name: RNA ligase activity
+id: GO:0008460	"name: dTDP-glucose 4,6-dehydratase activity"
+id: GO:0008551	name: P-type cadmium transporter activity
+id: GO:0008556	"name: potassium transmembrane transporter activity, phosphorylative mechanism"
+id: GO:0008645	name: hexose transmembrane transport
+id: GO:0008712	name: ADP-glyceromanno-heptose 6-epimerase activity
+id: GO:0008733	name: L-arabinose isomerase activity
+id: GO:0008735	name: carnitine dehydratase activity
+id: GO:0008741	name: ribulokinase activity
+id: GO:0008742	name: L-ribulose-phosphate 4-epimerase activity
+id: GO:0008777	name: acetylornithine deacetylase activity
+id: GO:0008783	name: agmatinase activity
+id: GO:0008800	name: beta-lactamase activity
+id: GO:0008801	name: beta-phosphoglucomutase activity
+id: GO:0008802	name: betaine-aldehyde dehydrogenase activity
+id: GO:0008808	name: cardiolipin synthase activity
+id: GO:0008809	name: carnitine racemase activity
+id: GO:0008833	name: deoxyribonuclease IV (phage-T4-induced) activity
+id: GO:0008879	name: glucose-1-phosphate thymidylyltransferase activity
+id: GO:0008983	name: protein-glutamate O-methyltransferase activity
+id: GO:0009020	name: tRNA (guanosine-2'-O-)-methyltransferase activity
+id: GO:0009039	name: urease activity
+id: GO:0009042	name: valine-pyruvate transaminase activity
+id: GO:0009214	name: cyclic nucleotide catabolic process
+id: GO:0009310	name: amine catabolic process
+id: GO:0009319	name: cytochrome o ubiquinol oxidase complex
+id: GO:0009355	name: DNA polymerase V complex
+id: GO:0009437	name: carnitine metabolic process
+id: GO:0009439	name: cyanate metabolic process
+id: GO:0009440	name: cyanate catabolic process
+id: GO:0009486	name: cytochrome bo3 ubiquinol oxidase activity
+id: GO:0009593	name: detection of chemical stimulus
+id: GO:0009635	name: response to herbicide
+id: GO:0010043	name: response to zinc ion
+id: GO:0010312	name: detoxification of zinc ion
+id: GO:0010350	name: cellular response to magnesium starvation
+id: GO:0010487	name: thermospermine synthase activity
+id: GO:0015002	name: heme-copper terminal oxidase activity
+id: GO:0015085	name: calcium ion transmembrane transporter activity
+id: GO:0015094	name: lead ion transmembrane transporter activity
+id: GO:0015123	name: acetate transmembrane transporter activity
+id: GO:0015145	name: monosaccharide transmembrane transporter activity
+id: GO:0015199	name: amino-acid betaine transmembrane transporter activity
+id: GO:0015212	name: cytidine transmembrane transporter activity
+id: GO:0015213	name: uridine transmembrane transporter activity
+id: GO:0015214	name: pyrimidine nucleoside transmembrane transporter activity
+id: GO:0015220	name: choline transmembrane transporter activity
+id: GO:0015226	name: carnitine transmembrane transporter activity
+id: GO:0015233	name: pantothenate transmembrane transporter activity
+id: GO:0015250	name: water channel activity
+id: GO:0015307	name: obsolete drug:proton antiporter activity
+id: GO:0015355	name: secondary active monocarboxylate transmembrane transporter activity
+id: GO:0015360	name: acetate:proton symporter activity
+id: GO:0015368	name: calcium:cation antiporter activity
+id: GO:0015419	name: ABC-type sulfate transporter activity
+id: GO:0015453	name: oxidoreduction-driven active transmembrane transporter activity
+id: GO:0015501	name: glutamate:sodium symporter activity
+id: GO:0015506	name: nucleoside:proton symporter activity
+id: GO:0015606	name: spermidine transmembrane transporter activity
+id: GO:0015651	name: quaternary ammonium group transmembrane transporter activity
+id: GO:0015692	name: lead ion transport
+id: GO:0015697	name: quaternary ammonium group transport
+id: GO:0015709	name: thiosulfate transport
+id: GO:0015749	name: monosaccharide transmembrane transport
+id: GO:0015757	name: galactose transmembrane transport
+id: GO:0015838	name: amino-acid betaine transport
+id: GO:0015848	name: spermidine transport
+id: GO:0015861	name: cytidine transport
+id: GO:0015862	name: uridine transport
+id: GO:0015864	name: pyrimidine nucleoside transport
+id: GO:0015871	name: choline transport
+id: GO:0015879	name: carnitine transport
+id: GO:0015887	name: pantothenate transmembrane transport
+id: GO:0015926	name: glucosidase activity
+id: GO:0015988	"name: energy coupled proton transmembrane transport, against electrochemical gradient"
+id: GO:0015990	name: electron transport coupled proton transport
+id: GO:0016154	name: pyrimidine-nucleoside phosphorylase activity
+id: GO:0016463	name: P-type zinc transporter activity
+id: GO:0016812	"name: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides"
+id: GO:0018149	name: peptide cross-linking
+id: GO:0018153	name: isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine
+id: GO:0018199	name: peptidyl-glutamine modification
+id: GO:0018262	name: isopeptide cross-linking
+id: GO:0018277	name: protein deamination
+id: GO:0018995	name: host cellular component
+id: GO:0019285	name: glycine betaine biosynthetic process from choline
+id: GO:0019324	name: L-lyxose metabolic process
+id: GO:0019441	name: tryptophan catabolic process to kynurenine
+id: GO:0019442	name: tryptophan catabolic process to acetyl-CoA
+id: GO:0019566	name: arabinose metabolic process
+id: GO:0019568	name: arabinose catabolic process
+id: GO:0019569	name: L-arabinose catabolic process to xylulose 5-phosphate
+id: GO:0019572	name: L-arabinose catabolic process
+id: GO:0019634	name: organic phosphonate metabolic process
+id: GO:0019695	name: choline metabolic process
+id: GO:0019852	name: L-ascorbic acid metabolic process
+id: GO:0019859	name: thymine metabolic process
+id: GO:0030029	name: actin filament-based process
+id: GO:0030036	name: actin cytoskeleton organization
+id: GO:0030042	name: actin filament depolymerization
+id: GO:0030153	name: bacteriocin immunity
+id: GO:0030246	name: carbohydrate binding
+id: GO:0030430	name: host cell cytoplasm
+id: GO:0030572	name: phosphatidyltransferase activity
+id: GO:0031004	name: potassium ion-transporting ATPase complex
+id: GO:0031455	name: glycine betaine metabolic process
+id: GO:0031456	name: glycine betaine biosynthetic process
+id: GO:0031460	name: glycine betaine transport
+id: GO:0032048	name: cardiolipin metabolic process
+id: GO:0032049	name: cardiolipin biosynthetic process
+id: GO:0032055	name: negative regulation of translation in response to stress
+id: GO:0032196	name: transposition
+id: GO:0032950	name: regulation of beta-glucan metabolic process
+id: GO:0032951	name: regulation of beta-glucan biosynthetic process
+id: GO:0033051	name: aminophosphonate metabolic process
+id: GO:0033643	name: host cell part
+id: GO:0033646	name: host intracellular part
+id: GO:0033719	name: 2-oxo-acid reductase activity
+id: GO:0034257	name: nicotinamide riboside transmembrane transporter activity
+id: GO:0034258	name: nicotinamide riboside transport
+id: GO:0035368	name: selenocysteine insertion sequence binding
+id: GO:0035433	name: acetate transmembrane transport
+id: GO:0035461	name: vitamin transmembrane transport
+id: GO:0036173	name: thiosulfate binding
+id: GO:0036245	name: cellular response to menadione
+id: GO:0036405	name: anchored component of cell outer membrane
+id: GO:0036406	name: anchored component of periplasmic side of cell outer membrane
+id: GO:0040013	name: negative regulation of locomotion
+id: GO:0042044	name: fluid transport
+id: GO:0042219	name: cellular modified amino acid catabolic process
+id: GO:0042402	name: cellular biogenic amine catabolic process
+id: GO:0042413	name: carnitine catabolic process
+id: GO:0042436	name: indole-containing compound catabolic process
+id: GO:0043100	name: pyrimidine nucleobase salvage
+id: GO:0043150	name: DNA synthesis involved in double-strand break repair via homologous recombination
+id: GO:0043199	name: sulfate binding
+id: GO:0043570	name: maintenance of DNA repeat elements
+id: GO:0043571	name: maintenance of CRISPR repeat elements
+id: GO:0043656	name: host intracellular region
+id: GO:0043657	name: host cell
+id: GO:0043737	name: deoxyribonuclease V activity
+id: GO:0043893	name: acetate:cation symporter activity
+id: GO:0043900	name: regulation of multi-organism process
+id: GO:0043901	name: negative regulation of multi-organism process
+id: GO:0043918	name: cadaverine aminopropyltransferase activity
+id: GO:0043957	name: acryloyl-CoA reductase (NADP+) activity
+id: GO:0044215	name: obsolete other organism
+id: GO:0044216	name: other organism cell
+id: GO:0044217	name: other organism part
+id: GO:0044421	name: obsolete extracellular region part
+id: GO:0044547	name: DNA topoisomerase binding
+id: GO:0045127	name: N-acetylglucosamine kinase activity
+id: GO:0046218	name: indolalkylamine catabolic process
+id: GO:0046348	name: amino sugar catabolic process
+id: GO:0046373	name: L-arabinose metabolic process
+id: GO:0046566	name: DOPA dioxygenase activity
+id: GO:0046686	name: response to cadmium ion
+id: GO:0047580	name: 4-hydroxyproline epimerase activity
+id: GO:0047681	name: aryl-alcohol dehydrogenase (NADP+) activity
+id: GO:0047917	name: GDP-glucosidase activity
+id: GO:0048029	name: monosaccharide binding
+id: GO:0048033	name: heme o metabolic process
+id: GO:0048034	name: heme O biosynthetic process
+id: GO:0050225	name: pseudouridine kinase activity
+id: GO:0050483	name: IMP 5'-nucleotidase activity
+id: GO:0050484	name: GMP 5'-nucleotidase activity
+id: GO:0051108	name: carnitine-CoA ligase activity
+id: GO:0051109	name: crotonobetaine-CoA ligase activity
+id: GO:0051167	name: xylulose 5-phosphate metabolic process
+id: GO:0051182	name: obsolete coenzyme transport
+id: GO:0051185	name: obsolete coenzyme transmembrane transporter activity
+id: GO:0051261	name: protein depolymerization
+id: GO:0051271	name: negative regulation of cellular component movement
+id: GO:0051273	name: beta-glucan metabolic process
+id: GO:0051274	name: beta-glucan biosynthetic process
+id: GO:0051472	name: glucosylglycerol metabolic process
+id: GO:0051606	name: detection of stimulus
+id: GO:0055070	name: copper ion homeostasis
+id: GO:0055074	name: calcium ion homeostasis
+id: GO:0070189	name: kynurenine metabolic process
+id: GO:0070588	name: calcium ion transmembrane transport
+id: GO:0070988	name: demethylation
+id: GO:0071466	name: cellular response to xenobiotic stimulus
+id: GO:0072747	name: cellular response to chloramphenicol
+id: GO:0072756	name: cellular response to paraquat
+id: GO:0090482	name: vitamin transmembrane transporter activity
+id: GO:0090483	name: phosphatidylglycerol-phosphatidylethanolamine phosphatidyltransferase activity
+id: GO:0090533	name: cation-transporting ATPase complex
+id: GO:0097056	name: selenocysteinyl-tRNA(Sec) biosynthetic process
+id: GO:0097435	name: supramolecular fiber organization
+id: GO:0106050	name: tRNA 2'-O-methyltransferase activity
+id: GO:1900190	name: regulation of single-species biofilm formation
+id: GO:1900191	name: negative regulation of single-species biofilm formation
+id: GO:1900231	name: regulation of single-species biofilm formation on inanimate substrate
+id: GO:1900232	name: negative regulation of single-species biofilm formation on inanimate substrate
+id: GO:1901072	name: glucosamine-containing compound catabolic process
+id: GO:1901159	name: xylulose 5-phosphate biosynthetic process
+id: GO:1901322	name: response to chloramphenicol
+id: GO:1901562	name: response to paraquat
+id: GO:1901655	name: cellular response to ketone
+id: GO:1902201	name: negative regulation of bacterial-type flagellum-dependent cell motility
+id: GO:1902603	name: carnitine transmembrane transport
+id: GO:1903711	name: spermidine transmembrane transport
+id: GO:1990359	name: stress response to zinc ion
+id: GO:1990827	name: deaminase binding
+id: GO:2000146	name: negative regulation of cell motility
+id: GO:2001023	name: regulation of response to drug
