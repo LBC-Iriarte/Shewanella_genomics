@@ -16,9 +16,9 @@ Gabriela N. Cerbino, German M. Traglia, Teolincacihuatl Ayala Nuñez, Gisela Par
 
 3.run_func.sh (input= faa file (proteome from each genome)- FASTA file with Amino acid sequence, output= Eggnog output files from each faa file)
 
-4.fisher3.R (input=matrix file (examples in folder: clin1_v_env, clin2_v_env, etc) - output =)
+4.fisher3.R (input=matrix file - output = table_fisher.csv (examples in folder: clin1_v_env, clin2_v_env, etc))
 
-5.filter_signi.sh
+5.filter_signi.sh (input=table_fisher.csv, output=sign_pvalue_assign_func_c1_v_c2.tab (examples in folder: clin1_v_env, clin2_v_env, etc))
 
 Conservation:
 
