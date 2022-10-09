@@ -100,6 +100,7 @@ clustalo -i 206578_cea.60.faa --output-order=input-order -o 206578_cea.60.aln
 Concatenador.scp
 
 7. Phylogenetic analysis was built using iqtree. The generated file “concatenados.fas” was used as input. 
+
 iqtree-omp -s concatenados.fas -bb 1000 -m TEST
 
  
